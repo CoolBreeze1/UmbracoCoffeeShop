@@ -363,6 +363,15 @@
     <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
     <Content Include="vendor\jquery\jquery.min.map" />
     <Content Include="vendor\jquery\jquery.slim.min.map" />
+    <Content Include="Views\master.cshtml" />
+    <Content Include="Views\home.cshtml" />
+    <Content Include="Views\Partials\_Navbar.cshtml" />
+    <Content Include="Views\Partials\_Header.cshtml" />
+    <Content Include="Views\Partials\_Footer.cshtml" />
+    <Content Include="Views\Partials\_PromiseSection.cshtml" />
+    <Content Include="Views\about.cshtml" />
+    <Content Include="Views\products.cshtml" />
+    <Content Include="Views\store.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
